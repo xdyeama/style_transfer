@@ -1,0 +1,5 @@
+./a.out:1: MAJOR:C-O1
+./test.c:1: MINOR:C-G1
+./test.c:5: MAJOR:C-F6
+./test.c:5: MINOR:C-L4
+./test.c:6: MINOR:C-L6
